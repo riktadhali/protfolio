@@ -1,0 +1,110 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+margin: 0 px;
+max-width: 96%;
+}
+.bg{
+    
+    background:darkgray;
+    background-size:cover;
+    position: relative;
+    width: 1400px;
+    
+}
+.navbar-brand{
+    color: aliceblue;
+}
+.nav-link active{
+    color: aliceblue;
+}
+.nav-link{
+    color: aliceblue;
+    text-transform: uppercase;
+    position: relative;
+}
+.clearfix{
+    color: aliceblue;
+    top: 50%;
+    left: 50%;
+
+}
+.clearfix p{margin-left: 10%;
+margin-top: 5%;}
+.clearfix H1{margin-left: 10%;}
+
+.clearfix H6{margin-left: 10%;}
+
+.clearfix img{border-radius: 50%;}
+.button{
+    max-lines: 20%;
+   top: 20%;
+ margin-left: 20%;
+   right: 30%;
+   height: 30%;
+}
+
+
+.phot{
+    max-inline-size: 40%;
+   display:flex ;
+   color: aliceblue;
+   width:90%;
+   margin-left :30px;
+}
+.phot H4{
+   margin-top: 5%;
+    margin-left :40px;
+}
+.phot H1{
+    margin-left :40px;
+}
+.phot p{
+    margin-left :40px;
+    margin-top: 4%;
+}
+.phot img{border-radius: 60%;   right: 50%; margin-left: 10%;}
+
+.phot button{
+    margin: 20%;
+display: grid;
+
+}
+.container text card{
+    display: flex;
+}
+.text h6{
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.text H4{
+    margin-left: 5%;
+}
+.contact{
+    background-color: darkgray;
+}
+.contact h1{
+    margin-left :40%;
+}
+.contact p{
+    margin-right:35px;
+    padding-left:15% ;
+}
+.contact button{
+    margin-left :80%;
+}
+.contact ul {
+color: blue;
+    text-align:center;
+display:inline-block ;
+}
+.contact ul li{
+    flex: 1;
+    text-align:center;
+    list-style: none;
+    display:inline-block ;
+    margin: 1px 02%;
+    position: relative;
+}
